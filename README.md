@@ -5,3 +5,4 @@
 Working/ Worked on:  
 
 - https://mystic.deepaktammali.space/
+- https://www.deepaktammali.space
